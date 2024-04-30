@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/j_choi/Downloads/mysql-connector-j-8.3.0 2/mysql-connector-j-8.3.0.jar",
+        "g:\\내 드라이브\\Coding\\Language\\Java\\MultiCampus\\sql\\mysql-connector-j-8.0.32.jar",
+        "g:\\내 드라이브\\Coding\\Language\\Java\\MultiCampus\\jdbc\\mysql-connector-j-8.0.32.jar"
+    ]
+}
